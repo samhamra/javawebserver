@@ -5,10 +5,10 @@ import java.io.*;
 public class HttpClient{
 	static int guesses = 0;
 	public static void main(String[] args){
-		for(int i= 0; i<1000; i++) {
+		for(int i= 0; i<100; i++) {
 			new HttpClient();
 		}
-		System.out.println(String.format("Average %d guesses to get the correct number", guesses/1000));
+		System.out.println(String.format("Average %d guesses to get the correct number", guesses/100));
 
 	}
 

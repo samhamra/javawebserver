@@ -1,0 +1,17 @@
+1.GET, request data from resource, can be cached, should return same result every time, limit on data size
+POST submit data to e processed, to a resource, does not have to return same result every time, no limit on data size
+
+2. 
+REST
+Uniform- Interface
+Methods(e.g. HTTP GET/POST/PUT/DELETE  HEADER/PATCH
+Representation(XML, JSON, plaintext etc)
+
+Stateless
+Cachable
+Layered
+
+
+3. CRUD dvs GET, POST, PUT, DELETE 
+
+
